@@ -5,7 +5,7 @@
     "Everton Yoshitani <everton@notreve.com>"
   ],
   "description": "AngularJS Color Contrast Directive",
-  "main": ["./src/color-contrast.js"],
+  "main": ["color-contrast.js"],
   "keywords": [
     "color",
     "contrast",
